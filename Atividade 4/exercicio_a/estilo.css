@@ -1,0 +1,61 @@
+.container {
+    background-color: pink;
+    display: flex;
+}
+
+.start{
+    justify-content: flex-start;
+    margin: 5px;
+}
+
+.end{
+    justify-content: flex-end;
+    margin: 5px;
+}
+
+.center{
+   justify-content: center; 
+   margin: 5px;
+}
+
+.space-between{
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.space-around{
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.space-nome{
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.filho {
+width: 50px ;
+height: 50px;
+margin: 5px;
+text-align: center;
+border-radius: 5px;
+background-color: yellowgreen;
+line-height: 50px; 
+}
+
+.azul-claro{
+background-color: #63b1bc ;
+}
+
+.azul-escuro{
+background-color: #1f2a44 ;
+color: #ffff;
+}
+
+.rosa{
+    background-color: #ed145b;
+}
+
+.amarelo{
+    background-color: #efb661;
+}
